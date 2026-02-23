@@ -46,5 +46,6 @@ The detailed write-ups for the series are available online:
 
 **Part 2: Pure PyTorch Implementation**
 - 🔗 [Read the Full Blog Post](https://soveshmohapatra.com/projects/mamba-ssm-live-code/)
+- 🔗 [Join the Discussion on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7431498487692713984/?originTrackingId=FA1vwkjcBX3jfEk9C%2Bq9aw%3D%3D)
 
 Check out my [LinkedIn](https://www.linkedin.com/in/sovesh) to follow along with the live updates for future parts!
