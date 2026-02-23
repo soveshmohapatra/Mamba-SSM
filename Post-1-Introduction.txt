@@ -1,0 +1,26 @@
+It’s time to talk about the elephant in the AI room: Transformers have a fatal flaw. 🐘
+
+If you work in Deep Learning, you know the pain. The Attention mechanism in Transformers (like GPT) scales quadratically. 
+Double the sequence length? Multiply the compute cost by 4. 
+Trying to process an entire book, a long genomic sequence, or hours of high-frequency brain signals? You hit a memory wall incredibly fast.
+
+That’s why I'm keeping a very close eye on the architectural shift happening right now: State Space Models (SSMs) and Mamba. 🐍
+
+As a Bioengineering PhD Candidate working with dynamical systems, SSMs are fascinating to me because they are rooted in classical Control Theory. Instead of comparing every token to every other token (quadratic), SSMs compress the sequence context into a hidden "state" that updates linearly as new data flows in.
+
+Fast inference. Infinite context potential. Linear scaling. 
+
+But talking about architecture isn't enough. It's time to build it. 🛠️
+
+Starting today, I’m launching a "Build in Public" mini-series where we completely deconstruct State Space Models:
+1️⃣ Part 1 (Today): The fundamental math (Control Theory 101 for AI)
+2️⃣ Part 2: Writing a 1D State Space layer in under 100 lines of pure PyTorch
+3️⃣ Part 3: Scaling it up and testing it against a baseline Transformer on long sequences
+
+I’ll be sharing the code, the math, and the inevitable bugs I hit along the way. 
+
+If you are a researcher, AI engineer, or just love getting under the hood of foundational models—follow along. 
+
+Drop a "👋" in the comments if you want me to tag you when the PyTorch code drops!
+
+#DeepLearning #MachineLearning #ArtificialIntelligence #PyTorch #PhDLife #StateSpaceModels #Mamba #Bioengineering #BuildInPublic
