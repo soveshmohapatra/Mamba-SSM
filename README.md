@@ -13,6 +13,7 @@ SSMs compress the sequence context into a hidden "state" that updates linearly a
 ### Series Outline
 1. **Part 1**: The fundamental math (Control Theory 101 for AI)
 2. **Part 2**: Writing a 1D State Space layer in under 100 lines of pure PyTorch
+   ![Part 2 Banner](Post-2-Banner.png)
 3. **Part 3**: Scaling it up and testing it against a baseline Transformer on long sequences
 
 ## Code Structure
@@ -40,7 +41,10 @@ This will run a quick sanity check validating the mathematical LTI duality betwe
 The detailed write-ups for the series are available online:
 
 **Part 1: The Intuition and Mathematics**
-- 🔗 [Read the Full Blog Post](https://soveshmohapatra.com/projects/mamba-ssm-part-1/)
+- 🔗 [Read the Full Blog Post](https://soveshmohapatra.com/projects/mamba-ssm-theory/)
 - 🔗 [Join the Discussion on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7431122409711374336/?originTrackingId=wQPcaqKdn4pVi9A7h0mXGg%3D%3D)
+
+**Part 2: Pure PyTorch Implementation**
+- 🔗 [Read the Full Blog Post](https://soveshmohapatra.com/projects/mamba-ssm-live-code/)
 
 Check out my [LinkedIn](https://www.linkedin.com/in/sovesh) to follow along with the live updates for future parts!
