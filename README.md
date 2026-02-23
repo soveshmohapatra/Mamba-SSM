@@ -36,9 +36,11 @@ python simple_ssm.py
 
 This will run a quick sanity check validating the mathematical LTI duality between the Convolutional and Recurrent paths.
 
-## Articles
-The LaTeX and text representations of the LinkedIn/Blog posts are included for reference:
-- `Post-1-Introduction.txt`, `Blog-Part-1.tex`
-- `Post-2-PyTorch.txt`, `Blog-Part-2.tex`
+## Articles and Posts
+The detailed write-ups for the series are available online:
 
-Check out my [LinkedIn](https://www.linkedin.com/in/sovesh) to follow along with the live updates!
+**Part 1: The Intuition and Mathematics**
+- 🔗 [Read the Full Blog Post](https://soveshmohapatra.com/projects/mamba-ssm-part-1/)
+- 🔗 [Join the Discussion on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7431122409711374336/?originTrackingId=wQPcaqKdn4pVi9A7h0mXGg%3D%3D)
+
+Check out my [LinkedIn](https://www.linkedin.com/in/sovesh) to follow along with the live updates for future parts!
