@@ -62,7 +62,7 @@ The detailed write-ups for the series are available online:
 - 🔗 [Join the Discussion on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7431498487692713984/?originTrackingId=FA1vwkjcBX3jfEk9C%2Bq9aw%3D%3D)
 
 **Part 3: Scaling to Mamba and Transformers**
-- 🔗 [Read the Full Blog Post](https://soveshmohapatra.com/projects/mamba-ssm-live-code/)
-- 🔗 [Join the Discussion on LinkedIn](https://www.linkedin.com/in/sovesh)
+- 🔗 [Read the Full Blog Post](https://soveshmohapatra.com/projects/mamba-ssm-application/)
+- 🔗 [Join the Discussion on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7432978799828402177/?originTrackingId=CsVOjlcR38zRg%2BHEKtEiyg%3D%3D)
 
 Check out my [LinkedIn](https://www.linkedin.com/in/sovesh) to follow along with the live updates for future parts!
